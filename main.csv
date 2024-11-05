@@ -1,0 +1,17 @@
+Company,Rank,Location,State,Specialism,Total Compensation,Base,Stock,Bonus
+Facebook,E3,"Menlo Park, CA",CA,Distributed Systems (Back-End),"$232,000 ",110000,37000,85000
+Facebook,E3,"Menlo Park, CA",CA,Distributed Systems (Back-End),"$175,000 ",123000,40000,12000
+Facebook,E3,"Menlo Park, CA",CA,ML/AI,"$221,000 ",118000,38000,65000
+Facebook,E3,"Seatlle, WA",WA,Mobile,"$169,000 ",110000,37000,22000
+Facebook,E3,"Menlo Park, CA",CA,Networking,"$183,000 ",123000,40000,20000
+Facebook,E3,"Menlo Park, CA",CA,Networking,"$182,000 ",120000,50000,12000
+Facebook,E3,"Menlo Park, CA",CA,Mobile,"$248,000 ",118000,55000,75000
+Facebook,E3,"Seatlle, WA",WA,Full Stack,"$167,000 ",115000,40000,12000
+Facebook,E3,"Seatlle, WA",WA,Full Stack,"$160,000 ",110000,40000,10000
+Facebook,E3,"Menlo Park, CA",CA,ML/AI,"$174,000 ",110000,37000,27000
+Google,L3/T3,"Mountain View, CA",CA,Mobile,"$199,000 ",125000,55000,19000
+Google,L3/T3,"Sunnyvale, CA",CA,Web,"$163,000 ",120000,25000,18000
+Google,L3/T3,"New York, NY",NY,Distributed Systems (Back-End),"$256,000 ",145000,90000,22000
+Google,L3/T3,"San Bruno, CA",CA,Full Stack,"$163,000 ",120000,25000,18000
+Google,L3/T3,"Kitchener, ON",Canada,Full Stack,"$260,000 ",120000,120000,20000
+Google,L3/T3,"Mountain View, CA",CA,Distributed Systems (Back-End),"$233,000 ",65000,65000,33000
